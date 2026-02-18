@@ -3,7 +3,7 @@
 Portable mmap (file memory mapping) utility library.
 
 |---------+------------------------------------------|
-| source  | git:https://github.com/Shinmera/mmap.git |
-| commit  | 9623fd3                                  |
+| source  | git:https://codeberg.org/shinmera/mmap.git |
+| commit  | 0000000                                  |
 | systems | mmap                                     |
 |---------+------------------------------------------|
